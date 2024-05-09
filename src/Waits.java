@@ -38,7 +38,7 @@ public class Waits{
 
 		driver.findElement(By.xpath("(//p[@class='font12 greyText appendBottom3'])[1]")).click();
 		
-		
+		System.out.println("sdfdfsfsdfdf");
 	}
 
 }
